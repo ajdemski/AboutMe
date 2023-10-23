@@ -17,3 +17,7 @@ img {
 .aboutMe {
   break-inside: avoid;
 }
+
+.award {
+  color: red;
+}
