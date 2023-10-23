@@ -1,7 +1,8 @@
 .container {
+  margin-top: 50px;
   text-align: center;
   column-count: 3;
-  
+  column-gap: 10%;
 }
 
 .header{
@@ -11,4 +12,8 @@
 
 img {
   width: 200px;
+}
+
+.aboutMe {
+  break-inside: avoid;
 }
