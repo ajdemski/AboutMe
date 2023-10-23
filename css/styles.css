@@ -1,0 +1,14 @@
+.container {
+  text-align: center;
+  column-count: 3;
+  
+}
+
+.header{
+  text-align: center;
+
+}
+
+img {
+  width: 200px;
+}
