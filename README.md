@@ -19,7 +19,7 @@ _A Code Review Project from Aaron Demski, In this repository you'll find index.h
 * _Open index.html in the file you cloned._
 
 ## Link To Site
-_```https://ajdemski.github.io/AboutMe/```_
+_https://ajdemski.github.io/AboutMe/_
 
 ## Known Bugs
 
